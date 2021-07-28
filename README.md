@@ -72,6 +72,7 @@
       <a href="#usage">Usage</a>
       <ul>
         <li><a href="#source-images">Source Images</a></li>
+        <li><a href="#selecting-items">Things to Consider When Selecting Items for Annotation</a></li>
         <li><a href="#librarian-annotations">Librarian Annnotations</a></li>
         <li><a href="#iiif-manifests">IIIF Manifests</a></li>
         <li><a href="#custom-theme">Custom Theme</a></li>
@@ -93,9 +94,9 @@
 
 Speculative Annotation connects items from the past with the day-to-day experience of users. It was made with a K-12 audience in mind, with the hope that primary sources from the Library’s collection will be used by educators. The items are shared with contextual aids including curator annotations and links to additional resources for further research on the Library’s website.
 
-The experimental application will premier at the Library of Congress in the summer of 2021 at https://labs.loc.gov/work/experiments/. We hope that other cultural heritage organizations will use this open source tool with their own materials to spark engagement and dialogue with historical objects.
+The experimental application will premier at the Library of Congress in the summer of 2021 at https://labs.loc.gov/work/experiments/annotation/. We hope that other cultural heritage organizations will use this open source tool with their own materials to spark engagement and dialogue with historical objects.
 
-Visit [Library of Congress Labs](https://labs.loc.gov/work/experiments/annotation/) for more information.
+Visit [Library of Congress Labs](https://labs.loc.gov) for more information about our work, other Innovator in Residence projects, or to sign up for our newsletter.
 
 <a href="https://labs.loc.gov/">
   <img src="public/social-media-logos-Labs.svg" alt="Logo" style="height: 200px; width: auto;" />
@@ -171,6 +172,19 @@ src/images/curator-annotations
 ```
 
 The application uses the OpenSeadragon Viewer to render images, so your source images can be a combination of locally hosted images (within the application), or externally hosted images (for example, served from a IIIF image server).
+
+### Selecting items
+
+When putting together the Speculative Annotation mini collection, the project team was careful to consider the ethics of annotation and what items would or would not be appropriate for public annotation, as well as what kinds of items would engage students. This includes issues of copyright (all items are free to use at the Library) but also concerns about defacement. We considered issues of culturally specific imagery, religious materials, and human figures, particularly black and brown bodies, minors and private citizens. 
+
+When adding your own images to your instance of the application, here are some questions to consider:
+ - Does this item depict civilians who did not agree to their picture being taken?
+ - Does this item depict minors?
+ - Does this item depict human figures, particularly black and brown bodies, that could be defaced or harmed through annotation?
+ - Was the item created for public consumption and by who?
+ - Have you considered how the culture depicted in the item or that created the item sees annotation?
+ - Does the item spark imagination and storytelling?
+ - Can the item stand on its own? How much context is required?
 
 ### IIIF Manifests
 
@@ -265,6 +279,9 @@ Rare Book Division
 Geography and Maps Division
 Professional Learning, Outreach & Initiatives Office
 Motion Picture, Broadcasting & Recorded Sound
+User Experience Design Section
+Mission Platforms Section
+Software Engineering Division
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
