@@ -89,6 +89,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+This project is an experiment and there is no active development and/or maintenance of the codebase. Fork at your own risk!
 
 **Speculative Annotation** is a dynamic website and public art project by Library of Congress Innovator in Residence Courtney McClellan. The tool presents a unique mini collection of Free to Use items from the Library of Congress for students, teachers, and users of all ages to annotate through captions, drawings, and other types of markmaking. Working with curators at the Library and students and teachers in the classroom, McClellan developed Speculative Annotation to provide a way for students to speak back to history.
 
